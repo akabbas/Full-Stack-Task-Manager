@@ -4,12 +4,12 @@ We would like to thank the contributor who has helped make this project possible
 
 ## Core Team
 
-- [Ammad Abbas](https://github.com/akabbas) - Project Lead and Sole Developer
+- [Ammr Abbasher](https://github.com/akabbas) - Project Lead and Sole Developer
 
 ## Project Contributions
 
 ### Code Contributions
-- [Ammad Abbas](https://github.com/akabbas) - Full-stack development, including:
+- [Ammr Abbasher](https://github.com/akabbas) - Full-stack development, including:
   - Frontend development with React and TypeScript
   - Backend development with Node.js and Express
   - PostgreSQL database design and implementation
@@ -19,7 +19,7 @@ We would like to thank the contributor who has helped make this project possible
   - Testing and documentation
 
 ### Documentation Contributions
-- [Ammad Abbas](https://github.com/akabbas) - Created and maintained:
+- [Ammr Abbasher](https://github.com/akabbas) - Created and maintained:
   - README.md
   - API_DOCUMENTATION.md
   - DATABASE_SCHEMA.md
