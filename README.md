@@ -2,7 +2,7 @@
 
 A full-stack task management application built with React, Node.js, Express, and PostgreSQL.
 
-!<img width="1447" alt="image" src="https://github.com/user-attachments/assets/92895f12-19cb-4243-a14c-6179d82c2cde" />
+<img width="1447" alt="image" src="https://github.com/user-attachments/assets/92895f12-19cb-4243-a14c-6179d82c2cde" />
 
 
 ## Features
