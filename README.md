@@ -42,8 +42,8 @@ A full-stack task management application built with React, Node.js, Express, and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
+git clone https://github.com/akabbas/Full-Stack-Task-Manager.git
+cd Full-Stack-Task-Manager
 ```
 
 2. Install dependencies for both client and server:
@@ -132,6 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Ammr Abbasher - ammrabbasher@gmail.com
 
-Project Link: [https://github.com/yourusername/task-manager](https://github.com/yourusername/task-manager) 
+Project Link: [https://github.com/akabbas/Full-Stack-Task-Manager](https://github.com/akabbas/Full-Stack-Task-Manager) 
